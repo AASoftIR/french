@@ -1,6 +1,7 @@
 # Intouchables 2011
 ## Words
 | French | English |
+| ------ | ------- |
 | dis donc | so say |
 | merde | shit |
 | putain | damn |
