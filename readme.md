@@ -32,6 +32,108 @@
 | rigole  | kidding |
 | l'equitation | horseback |
 | le malin | smart |
+| conne | stupid |
+|  185.51.200.2|  |
+|  un coup de fil | a phone call |
+|  tu te pointes | you showup |
+|  magouilles | shenanigans |
+|  le loyer | the rent |
+|  dieu | god |
+|  l'espoir | hope |
+|  tu fous le clamp d'ici |  you get the hell out of here |
+| un gars | a guy |
+| tu te barres  | you leave |
+|  laisse tomber | let it go|
+| une meuf | girl |
+|  marrant | funny |
+| separee | seperated |
+|  des horaires | schedules |
+|  l'essai | test |
+|  vous tiendrez | you will hold |
+|  il faudra etre meticuleux | you will have to be meticulous |
+|  il faut le sangler | you have to strap it |
+|  frottez | rub |
+|  tu m'as l'air doue | you seem talented to me |
+|  bon on enchaine | okay let's move on  |
+|  coiffe | hairstyle |
+| je m'evanouis | i faint |
+|  puisque | since |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 |  |  |
 |  |  |
 |  |  |
