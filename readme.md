@@ -1,4 +1,5 @@
 # Intouchables 2011
+
 ## Words
 | French | English |
 | ------ | ------- |
@@ -58,19 +59,19 @@
 |  coiffe | hairstyle |
 | je m'evanouis | i faint |
 |  puisque | since |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| vous m'enfilez |  you put me on |
+|  on vous expliquera |  we will explain to you |
+|  je vide pas le cul | I don't empty my ass |
+|  d'ailleurs | Besides |
+|  un principe | a principle |
+|  debat chelou | weird debate |
+| veuchs | wishes |
+| le dossier | the file |
+| tochant | touching |
+| le temoin | the witness |
+| une blague | a joke |
+| je suis trompee | I am deceived |
+| tu m'as convoque | you summoned me |
 |  |  |
 |  |  |
 |  |  |
