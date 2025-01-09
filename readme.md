@@ -72,26 +72,26 @@
 | une blague | a joke |
 | je suis trompee | I am deceived |
 | tu m'as convoque | you summoned me |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| il a frappe | he hit a neighbor |
+| rempli | completed |
+| il a braque une bijouterie | he robbed a jewelry store |
+| il parait | it seems |
+|  aucune pitie | no mercy |
+| costaud | strong |
+| il a un cerveau | he has a brain |
+| commence a te deshabiller | start undressing |
+| coquine | naughty |
+| courrier | mail |
+| desespere | desperate |
+| fantomes | ghosts |
+| congele | frozen |
+| une poele brulante | a hot frying pan |
+| je souffe | i suffer |
+| soulager | relieve |
+| voila ce qui me soulagerait | this is what would relieve me |
+| partage | sharing |
+| suffit | enough |
+| dures | hard |
 |  |  |
 |  |  |
 |  |  |
