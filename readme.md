@@ -92,31 +92,31 @@
 | partage | sharing |
 | suffit | enough |
 | dures | hard |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| souhaite | wish |
+| enceinte | pregnant |
+| fausses couches | miscarriages |
+| cuite | cooked |
+| haut | high |
+| la hauteur | the height |
+| seche | dry |
+| l'esprit | the mind |
+| j'y tiennes | tell |
+| chope | mug |
+| tu te ramenes | you bring yourself back |
+| etrange | odd |
+| l'ange | the angel |
+| merdier | shit |
+| baratin | bullshit |
+| la cote | the side |
+| conseils | advice |
+| des paquerettes | daisies |
+| chomes | things |
+| elle l'a ajouté | she added it |
+| ce mec | this guy |
+| deuil  | grief |
+| pleure | cry |
+| peur | fear |
+| incollable | unbeatable |
 |  |  |
 |  |  |
 |  |  |
