@@ -117,28 +117,28 @@
 | pleure | cry |
 | peur | fear |
 | incollable | unbeatable |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| seduire | seduce |
+| kiffe | love |
+| cognent | knock |
+| la bave | the drool |
+| clope | cigarette |
+| vous jetez  | you throw |
+| gifler | slap |
+| inadmissible | unacceptable |
+| decale | shift |
+| larguee | dropped |
+| foutre | cum |
+| je te paie | i pay you |
+| t'es con | you are stupid |
+| morceau | piece |
+| mener | carry out |
+| chevalier | knight |
+| chelou | weird |
+| glousse | giggle |
+| l'epoque | the time |
+| secours | relief |
+| gacher | spoil |
+| moche | ugly |
 |  |  |
 |  |  |
 |  |  |
