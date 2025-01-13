@@ -139,13 +139,13 @@
 | secours | relief |
 | gacher | spoil |
 | moche | ugly |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| aucun soucis | no worries |
+| le paquet | pack |
+| melange | blend |
+| la carlingue | cabin |
+| trucs | stuff |
+| ma godasse | my shoe |
+| cachotier | secretive |
 |  |  |
 |  |  |
 |  |  |
