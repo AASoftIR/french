@@ -146,13 +146,13 @@
 | trucs | stuff |
 | ma godasse | my shoe |
 | cachotier | secretive |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| niquer | fuck |
+| venger | revenge |
+| la daronne | the lady |
+| je gere | I manage |
+| egratignure | scratch |
+| la préviens | warn her |
+| le baiser | the kiss |
 |  |  |
 |  |  |
 |  |  |
