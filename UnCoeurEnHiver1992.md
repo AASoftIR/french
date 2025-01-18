@@ -21,16 +21,16 @@
 | mentionne | mentioned |
 | morceau | piece |
 | mouche | fly |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| le voyant | the seer |
+| camarde | comrade |
+| fringues | clothes |
+| trique | boner |
+| merveille | wonder |
+| la clavecin  | the harpsichord |
+| zingue | zinc |
+| corriger | to correct |
+| enregistrement | registration |
+| le reglage | the adjustment |
 |  |  |
 |  |  |
 |  |  |
