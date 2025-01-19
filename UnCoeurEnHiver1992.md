@@ -31,32 +31,32 @@
 | corriger | to correct |
 | enregistrement | registration |
 | le reglage | the adjustment |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| procure | provides |
+| bouquins | books |
+| fouiller | rummage |
+| sachant | knowing |
+| fiche | form |
+| m'emmerde | annoy me |
+| effrayant | scary |
+| eperdument | hopelessly |
+| etonnez | astonish |
+| frottee | rubbed |
+| cruaute | cruelty |
+| subit | undergoes |
+| flottante | floating |
+| pietinent | trample |
+| foule | crowd |
+| évoquez | evoke |
+| inutile | useless |
+| volonte | will |
+| paraite | parasite |
+| emouvoir | move |
+| tentative | attempt |
+| la cannelle | cinnamon |
+| deplaisant | unpleasant |
+| parier | bet |
+| confiance | trust |
+| repensant | thinking back |
 |  |  |
 |  |  |
 |  |  |
