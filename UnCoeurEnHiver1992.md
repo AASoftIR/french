@@ -57,13 +57,13 @@
 | parier | bet |
 | confiance | trust |
 | repensant | thinking back |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| vente | sale |
+| elargir | expand |
+| quittez | leave |
+| talon | heel |
+| doucement | gently |
+| le renversment | the reversal |
+| decouvert | discovered |
 |  |  |
 |  |  |
 |  |  |
