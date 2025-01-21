@@ -64,24 +64,24 @@
 | doucement | gently |
 | le renversment | the reversal |
 | decouvert | discovered |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| depayse | change of scenery |
+| eprouver | experience |
+| victoire | victory |
+| soulage | relieved |
+| l'entourer | surround it |
+| saine | healthy |
+| protege | protected |
+| rapproche | brings together |
+| milieu | medium |
+| lance | spear |
+| secher | dry |
+| pression | pressure |
+| grippe | flu |
+| la materne | the mother |
+| debloque | unblocked |
+| trouille | funk |
+| soudain | suddenly |
+| vitre | window |
 |  |  |
 |  |  |
 |  |  |
