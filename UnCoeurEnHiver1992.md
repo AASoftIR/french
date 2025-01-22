@@ -82,18 +82,18 @@
 | trouille | funk |
 | soudain | suddenly |
 | vitre | window |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| racontes | tell |
+| pourtant | Yet |
+| relancer | relaunch |
+| d'ailleur | besides |
+| recule | steps back |
+| poussee | push |
+| recueillir | collect |
+| abattre | fell |
+| agrandir | enlarge |
+| cuire | cook |
+| mixage | mixing |
+| joie | joy |
 |  |  |
 |  |  |
 |  |  |
