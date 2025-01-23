@@ -94,6 +94,17 @@
 | cuire | cook |
 | mixage | mixing |
 | joie | joy |
+| amitie | friendship |
+| arrangeait | arranged |
+| la ligne | the line |
+| fuyez | run away |
+| choquant | shocking |
+| traumatisme | trauma |
+| dissimule | conceals |
+| curieux | curious |
+| malaise | faintness |
+| gueule | mouth |
+| portee | scope |
 |  |  |
 |  |  |
 |  |  |
@@ -105,4 +116,45 @@
 |  |  |
 |  |  |
 |  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+
 
