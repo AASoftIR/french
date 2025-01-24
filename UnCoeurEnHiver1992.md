@@ -105,18 +105,18 @@
 | malaise | faintness |
 | gueule | mouth |
 | portee | scope |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| jeter | throw |
+| encombrent | clutter |
+| la verite | the truth |
+| doute | doubt |
+| acces | access |
+| soignez | take care |
+| assomme | knocks out |
+| sommeil | sleep |
+| genie | genius |
+| sagement | wisely |
+| facon | way |
+| bout | end |
 |  |  |
 |  |  |
 |  |  |
