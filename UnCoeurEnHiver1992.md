@@ -117,20 +117,20 @@
 | sagement | wisely |
 | facon | way |
 | bout | end |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| ailleur | elsewhere |
+| couilles | balls |
+| inquiétez | worry |
+| honte | shame |
+| claque | slap |
+| l'echelle | the scale |
+| creer | create |
+| orgueil | pride |
+| indigne | unworthy |
+| rafraichir | refresh |
+| soulever | raise |
+| appuie | supports |
+| agence | agency |
+| dise | say |
 |  |  |
 |  |  |
 |  |  |
