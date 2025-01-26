@@ -131,30 +131,23 @@
 | appuie | supports |
 | agence | agency |
 | dise | say |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-
+| defaut | default |
+| vignoble | vineyard |
+| gerance | management |
+| chevilles | ankles |
+| polir | polish |
+| piques | spades |
+| clientèle | customers |
+| rassure | reassures |
+| partenaires | partners |
+| temoin | witness |
+| hauteur | height |
+| concour | competition |
+| atelier | workshop |
+| caveau | vault |
+| vieillis | aged |
+| rire | laugh |
+| grincement | squeak |
+| revue | review |
+| THE | END |
 
