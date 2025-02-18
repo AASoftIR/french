@@ -10,11 +10,11 @@
 | avaler | swallow |
 | respirer | breathe |
 | lourde | heavy |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| couverte | covered |
+| tousser  | cough  |
+| allume | light up  |
+| sourire | smile |
+| soigne toi | take care of yourself |
 |  |  |
 |  |  |
 |  |  |
