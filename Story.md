@@ -15,10 +15,10 @@
 | allume | light up  |
 | sourire | smile |
 | soigne toi | take care of yourself |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| en ligne | online |
+| gargariser | gargle |
+| gingembre | ginger |
+| la vapeur | steam |
 |  |  |
 |  |  |
 |  |  |
